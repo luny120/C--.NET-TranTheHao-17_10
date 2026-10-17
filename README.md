@@ -13,9 +13,9 @@
 
 | Bài | Tên bài | Thư mục |
 |---|---|---|
-| 1 | Quản lý lịch hẹn phòng khám | [Bai1](./Bai1) |
+| 1 | Quản lý lịch hẹn phòng khám | [Bai1](./bai1) |
 | 2 | Quản lý mượn trả thiết bị tại phòng thực hành | [Bai2](./bai2) |
-| 3 | Quản lý đơn đăng ký dịch vụ sửa chữa | [Bai3](./Bai3) |
+| 3 | Quản lý đơn đăng ký dịch vụ sửa chữa | [Bai3](./bai3) |
 
 ---
 
